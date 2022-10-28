@@ -120,9 +120,9 @@ cover:
   background: https://gcore.jsdelivr.net/gh/MHG-LAB/cron@gh-pages/bing/bing.jpg
   # background: https://bing.ioliu.cn/v1/rand?w=1920&h=1200
   logo: # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-Cover@3x.png
-  title: 'Jayeve'
+  title: 'Ricardo_PING'
   subtitle: ''
-  search: 猪小屁～ # search bar placeholder
+  search: PING一下，没准就通了 # search bar placeholder
   features:
     - name: 博客
       icon: #
@@ -260,8 +260,8 @@ article:
       # 默认文章作者（可在 _data/author.yaml 中增加其他作者，并在 front-matter 中设置）
       # https://volantis.js.org/advanced-settings/#多人协同
       author:
-        avatar: /images/yangziyi.jpg
-        name: Jayeve
+        avatar: /images/Ping.png
+        name: Ricardo_PING
         url: /
       # 文章创建日期
       date:
@@ -361,7 +361,7 @@ comments:
   # beaudar
   # https://beaudar.lipk.org/
   beaudar:
-    repo: JayeveYang/blog-comments
+    repo: Ricardo_PING/blog-comments
     issue-term: pathname
     issue-number: 
     branch: main
@@ -508,9 +508,9 @@ sidebar:
       jinrishici: true # Poetry Today. You can set a string, and it will be displayed when loading fails.
       social:
         - icon: fa-solid fa-envelope
-          url: mailto:Jayeveyang@gmail.com
+          url: mailto:1004955884@qq.com
         - icon: fab fa-github
-          url: https://github.com/JayeveYang/
+          url: https://github.com/Ricardo-Ping/
         - icon: fa-solid fa-piggy-bank
           url: /
     # ---------------------------------------
@@ -638,9 +638,9 @@ site_footer:
     - icon: fa-solid fa-piggy-bank
       url: /
     - icon: fas fa-envelope
-      url: mailto:Jayeveyang@gmail.com
+      url: mailto:1004955884@qq.com
     - icon: fab fa-github
-      url: https://github.com/JayeveYang
+      url: https://github.com/Ricardo-Ping
     - icon: fa-solid fa-piggy-bank
       url: /
     - icon: fa-solid fa-piggy-bank
@@ -652,7 +652,7 @@ site_footer:
     <span id="lc-sv">本站总访问量为 <span id='number'><i class="fa-solid fa-loader fa-spin fa-fw" aria-hidden="true"></i></span> 次</span>
     <span id="lc-uv">访客数为 <span id='number'><i class="fa-solid fa-loader fa-spin fa-fw" aria-hidden="true"></i></span> 人</span>
   # site copyright
-  copyright: '[Copyright © 2022 JayeveYang ](/)'
+  copyright: '[Copyright © 2022 Ricardo_PING ](/)'
   # You can add your own property here. (Support markdown, for example: br: '<br>')
   br: '<br>'
 ############################### Site Footer ############################### > end
