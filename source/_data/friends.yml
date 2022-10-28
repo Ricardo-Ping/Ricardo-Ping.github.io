@@ -1,5 +1,5 @@
-- group:  七大姑八大姨
-  description:  狐朋狗友
+- group:  某不知名人气组合
+  description:  这是我们的快乐星球
   items:
     - title: weijiajin
       avatar: https://cdn.jsdelivr.net/gh/wejudging/wejudging.github.io/source/images/avatar.jpg
@@ -11,13 +11,13 @@
       url: https://squ1rrel-k.github.io
       screenshot: https://s1.ax1x.com/2022/09/23/xkjr79.png
       description: 小松鼠
-   - title: Jayeve
+    - title: Jayeve
       avatar: https://JayeveYang.github.io/sources/images/logo2.JPG
       url: https://jayeve.com
-      screenshot:https://JayeveYang.github.io/sources/images/logo2.JPG
+      screenshot: https://JayeveYang.github.io/sources/images/logo2.JPG
       description: 猪小屁~
-   - title: Ricardo_PING
+    - title: Ricardo_PING
       avatar: https://ricardo-ping.github.io/sources/images/Ping.png
       url:  https://ricardo-ping.github.io
-      screenshot:https://ricardo-ping.github.io/sources/images/Ping.png
-      description: ping 
+      screenshot: https://ricardo-ping.github.io/sources/images/Ping.png
+      description:  原来当下时代我们在此相聚全靠运气 
