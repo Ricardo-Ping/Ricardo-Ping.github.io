@@ -6,6 +6,6 @@ bottom_meta: false
 sidebar: []
 comments: false
 ---
-There is no reason that a human mind can keep up with an artificial intelligence machine by 2035
+你的努力和摆烂都不够彻底，所以你会痛苦
 
 Ricardo_PING
