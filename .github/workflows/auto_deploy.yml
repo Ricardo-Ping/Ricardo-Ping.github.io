@@ -26,7 +26,7 @@ jobs:
       uses: peaceiris/actions-gh-pages@v3
       with:
         deploy_key: ${{ secrets.HEXO_DEPLOY_KEY }}
-        external_repository: JayeveYang/JayeveYang.github.io
+        external_repository: Ricardo-Ping/Ricardo-Ping.github.io
         publish_branch: public
         publish_dir: ./public
         commit_message: ${{ github.event.head_commit.message }}
