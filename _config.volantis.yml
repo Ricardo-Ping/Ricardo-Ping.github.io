@@ -105,7 +105,7 @@ navbar:
     - name: 关于
       icon: fa-solid fa-info-circle
       url: /about
-  search: 猪小屁~   # Search bar placeholder
+  search: ping一下，没准就通了   # Search bar placeholder
 ############################### Navigation Bar ############################### > end
 
 
@@ -122,7 +122,7 @@ cover:
   logo: # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-Cover@3x.png
   title: 'Ricardo_PING'
   subtitle: ''
-  search: PING一下，没准就通了 # search bar placeholder
+  search: ping一下，没准就通了 # search bar placeholder
   features:
     - name: 博客
       icon: #
