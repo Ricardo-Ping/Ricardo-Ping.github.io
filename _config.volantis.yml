@@ -500,7 +500,7 @@ sidebar:
     blogger:
       class: blogger
       display: [desktop, mobile] # [desktop, mobile]
-      avatar: /images/yangziyi.jpg
+      avatar: /images/Ping.png
       shape: rectangle # circle, rectangle
       url: /about/
       title:
