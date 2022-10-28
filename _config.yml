@@ -4,16 +4,16 @@
 
 # Site
 title: PING
-subtitle: ''
+subtitle: 'Ricardo_PING'
 description: '这个人很懒，什么都没留下'
 keywords:
-author: 猪
+author: Ricardo_PING
 language: [zh-CN, en]
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://jayeve.com
+url: https://Ricardo-Ping.com
 root: /
 permalink: :hash/
 permalink_defaults:
