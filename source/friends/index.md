@@ -1,6 +1,6 @@
 ---
 layout: friends # 必须
-title: 猪小屁的朋友们 # 可选，这是友链页的标题
+title: Ricardo_PING的朋友们 # 可选，这是友链页的标题
 ---
 写点什么好呢
 不知道写什么
