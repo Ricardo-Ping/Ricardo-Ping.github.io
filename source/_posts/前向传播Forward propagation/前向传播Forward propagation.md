@@ -10,7 +10,7 @@ tags: Neural Network
 在正式介绍前向传播前，先简单介绍计算图（Computational Graph）的概念。
 
 $$
-\mathrm{y}=\mathrm{w} * \mathrm{x}+\mathrm{b}
+https://latex.codecogs.com/svg.image?\mathrm{y}=\mathrm{w}&space;*&space;\mathrm{x}&plus;\mathrm{b}
 $$
 
 可以用下面的有向无环图表示。
