@@ -2,6 +2,10 @@ title: 前向传播Forward propagation
 date: 2022-11-21 19:30:09
 categories: Neural Network
 
+plugins:
+
+  - mathjax
+
 tags: Neural Network
 ---
 
@@ -9,7 +13,9 @@ tags: Neural Network
 
 在正式介绍前向传播前，先简单介绍计算图（Computational Graph）的概念。
 
-https://latex.codecogs.com/svg.image?\\mathrm{y}=\\mathrm{w}&space;*&space;\\mathrm{x}&plus;\\mathrm{b}
+$$
+\mathrm{y}=\mathrm{w} * \mathrm{x}+\mathrm{b}
+$$
 
 可以用下面的有向无环图表示。
 
