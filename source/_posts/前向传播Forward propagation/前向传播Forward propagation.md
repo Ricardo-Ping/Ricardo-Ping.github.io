@@ -45,7 +45,6 @@ $$
 
 接着是激活函数层，激活函数用于提供非线性性，我们以**ReLU函数**为例
 
-<https://baike.baidu.com/item/ReLU%20%E5%87%BD%E6%95%B0/22689567>
 
 $$
 y=\operatorname{ReLU}(x)=\left\{\begin{array}{ll}0, & x<0 \\ x, & x \geqslant 0\end{array}\right.
