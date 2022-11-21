@@ -21,7 +21,7 @@ $$
 
 
 
-![](F:\GitHub\Ricardo-Ping.github.io\source\images\文章图片\前向传播Forward propagation\image_dgdW3p9-Rp.png)
+![](/images/文章图片/前向传播Forward propagation/image_dgdW3p9-Rp.png)
 
 **假设一个三层的神经网络，有两个输入和一个输出，每一个层都是全连接层和激活函数层**
 
